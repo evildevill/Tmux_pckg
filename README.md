@@ -11,4 +11,4 @@ Just download installer script
 
 # Now Run
 
-```git clone https://github.com/evildevill/Tmux_pckg.git && python Tmux_pckg.py```
+```git clone https://github.com/evildevill/Tmux_pckg.git && cd Tmux_pckg && python Tmuxpckg.py```
